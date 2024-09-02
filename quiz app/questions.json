@@ -1,0 +1,38 @@
+{
+    "Maths": [
+        {
+            "question": "What is 2 - 2?",
+            "options": ["a) 3", "b) 4", "c) 0", "d) 6"],
+            "answer": "c)"
+        },
+        {
+            "question": "What is the value of Pi to four decimal places?",
+            "options": ["a) 3.1415", "b) 3.1416", "c) 3.1417", "d) 3.1418"],
+            "answer": "b)"
+        }
+    ],
+    "English": [
+        {
+            "question": "What is the synonym of 'happy'?",
+            "options": ["a) sad", "b) joyful", "c) angry", "d) tired"],
+            "answer": "b)"
+        },
+        {
+            "question": "What is the antonym of 'cold'?",
+            "options": ["a) hot", "b) warm", "c) cool", "d) freezing"],
+            "answer": "a)"
+        }
+    ],
+    "Science": [
+        {
+            "question": "What planet is known as the Red Planet?",
+            "options": ["a) Earth", "b) Mars", "c) Jupiter", "d) Saturn"],
+            "answer": "b)"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["a) H2O", "b) O2", "c) CO2", "d) HO"],
+            "answer": "a)"
+        }
+    ]
+}
